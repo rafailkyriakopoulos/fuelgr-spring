@@ -15,7 +15,7 @@ $ git clone https://github.com/rafailkyriakopoulos/fuelgr-spring.git
 ```
 
 
-**2. Create a new MySQL Schema name it as fuelgr-django or modify settings.py (currently configured for xampp) and query files accordingly:**
+**2. Create a new MySQL database name it as fuelcs4414202 **
 
 ```
 From the database folder run sql queries in this order
