@@ -5,7 +5,7 @@
 
 
 Το project κάνει χρήση των εννοιών που διδάχτηκαν στο μάθημα και του spring framework.
-Αυτό το repository είναι το rest-api της εφαρμογής. Αν θέλουμε να έχουμε ολοκληρωμένα την εφαρμογή πρέπει να κατεβάσουμε και το front-end όπου έχουν χρησιμοποιηθεί html-css-javascript-bootstrap
+Αυτό το repository είναι το rest-api της εφαρμογής. Αν θέλουμε να έχουμε ολοκληρωμένα την εφαρμογή πρέπει να κατεβάσουμε και το front-end όπου έχουν χρησιμοποιηθεί html,css,javascript,bootstrap,google-maps-api
 https://github.com/rafailkyriakopoulos/fuelgr-frontend
 
 ## Quickstart
