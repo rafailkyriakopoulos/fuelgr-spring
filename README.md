@@ -24,6 +24,9 @@ From the database folder run sql queries in this order
   3) gasstations.sql
   4) pricedata.sql
 ```
-
-
+**3. projectRequirments.pdf:**
+  In this file we have the project requirments
+  
+ **4.project-report.pdf:**
+ In this file we have the result of project
 
